@@ -24,6 +24,8 @@ const SignUp = ({}) => {
           <TextInput style={styles.textBox} placeholder="Password" />
           <TextInput style={styles.textBox} placeholder="Confirm Password" />
         </View>
+      </View>
+      <View>
         <TouchableOpacity
           onPress={() => {
             // registrarse e ir a iniciar sesion
