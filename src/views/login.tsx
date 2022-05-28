@@ -16,7 +16,7 @@ const LogIn = () => {
       <View>
         <Text style={styles.topText}>Identity</Text>
         <Text style={styles.subText}>
-          Enter a good profile photo and type your name xavie dernandez
+          Enter a good profile photo and type your name
         </Text>
         <View style={styles.container2}>
           <View style={styles.logo}>

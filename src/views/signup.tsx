@@ -8,7 +8,7 @@ import {
 import React from 'react';
 import styles from '../../styles';
 import {useNavigation} from '@react-navigation/native';
-import theme from '../theme';
+
 
 const SignUp = ({}) => {
   const navigation = useNavigation();
