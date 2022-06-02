@@ -8,7 +8,7 @@ import {
 } from 'react-native';
 import React from 'react';
 import styles from '../../styles';
-import {Icon} from 'react-native-safe-area-context';
+
 
 const LogIn = () => {
   return (
