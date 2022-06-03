@@ -34,7 +34,7 @@ const LogIn = () => {
       <View>
         <TouchableOpacity
           onPress={() => {
-            // registrarse e ir a iniciar sesion
+            // iniciar sesion para continuar
           }}>
           <Text style={styles.linkLo}>Create account</Text>
         </TouchableOpacity>
